@@ -1,0 +1,2 @@
+model_checkpoint_path: "E:\\python plays gta5\\pygta5-master\\Tutorial Codes\\Part 8-13 code\\pygta5-car-0.001-alexnetv2-8-epochs-300K-data.model"
+all_model_checkpoint_paths: "E:\\python plays gta5\\pygta5-master\\Tutorial Codes\\Part 8-13 code\\pygta5-car-0.001-alexnetv2-8-epochs-300K-data.model"
